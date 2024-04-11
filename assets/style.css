@@ -131,7 +131,7 @@ nav a {
 
 section {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://devaln.github.io/Portfolio/assets/images/coding2.jpeg);
-  /* filter: brightness(50%); */
+  /* filter: blur(50%); */
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -172,6 +172,7 @@ section {
 }
 
 .social {
+  margin-left: 60%;
   text-align: center;
   margin-top: 20px;
 }
